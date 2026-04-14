@@ -125,5 +125,5 @@ Key findings
 -Il profilo di rischio è fortemente correlato con l’obiettivo di investimento
 
 
-
+python analysis https://colab.research.google.com/drive/1lcKA_G17Nac2g9hNIgGi010zX_Ly-07p?authuser=1
 
