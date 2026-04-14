@@ -123,3 +123,7 @@ Key findings
 -Gli investitori con orizzonte di lungo periodo allocano una quota maggiore in strumenti azionari
 -Gli investitori più conservativi preferiscono depositi vincolati e obbligazioni
 -Il profilo di rischio è fortemente correlato con l’obiettivo di investimento
+
+
+Python analysis https://colab.research.google.com/drive/1LMINJsDHcCutr7Uo2o2GPU0aWciwd9P5?usp=sharing
+
